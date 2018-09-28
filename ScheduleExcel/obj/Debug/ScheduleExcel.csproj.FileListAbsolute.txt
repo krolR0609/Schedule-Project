@@ -1,0 +1,9 @@
+C:\Users\N.artyushkin\source\repos\ScheduleExcel\ScheduleExcel\bin\Debug\ScheduleExcel.exe.config
+C:\Users\N.artyushkin\source\repos\ScheduleExcel\ScheduleExcel\bin\Debug\ScheduleExcel.exe
+C:\Users\N.artyushkin\source\repos\ScheduleExcel\ScheduleExcel\bin\Debug\ScheduleExcel.pdb
+C:\Users\N.artyushkin\source\repos\ScheduleExcel\ScheduleExcel\bin\Debug\EPPlus.dll
+C:\Users\N.artyushkin\source\repos\ScheduleExcel\ScheduleExcel\bin\Debug\EPPlus.xml
+C:\Users\N.artyushkin\source\repos\ScheduleExcel\ScheduleExcel\obj\Debug\ScheduleExcel.csprojResolveAssemblyReference.cache
+C:\Users\N.artyushkin\source\repos\ScheduleExcel\ScheduleExcel\obj\Debug\ScheduleExcel.csproj.CoreCompileInputs.cache
+C:\Users\N.artyushkin\source\repos\ScheduleExcel\ScheduleExcel\obj\Debug\ScheduleExcel.exe
+C:\Users\N.artyushkin\source\repos\ScheduleExcel\ScheduleExcel\obj\Debug\ScheduleExcel.pdb

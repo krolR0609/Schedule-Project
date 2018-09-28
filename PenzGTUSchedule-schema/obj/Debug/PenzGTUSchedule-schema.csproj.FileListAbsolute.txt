@@ -1,0 +1,8 @@
+C:\Users\N.artyushkin\source\repos\ScheduleExcel\PenzGTUSchedule-schema\bin\Debug\PenzGTUSchedule-schema.dll
+C:\Users\N.artyushkin\source\repos\ScheduleExcel\PenzGTUSchedule-schema\bin\Debug\PenzGTUSchedule-schema.pdb
+C:\Users\N.artyushkin\source\repos\ScheduleExcel\PenzGTUSchedule-schema\bin\Debug\Newtonsoft.Json.dll
+C:\Users\N.artyushkin\source\repos\ScheduleExcel\PenzGTUSchedule-schema\bin\Debug\Newtonsoft.Json.xml
+C:\Users\N.artyushkin\source\repos\ScheduleExcel\PenzGTUSchedule-schema\obj\Debug\PenzGTUSchedule-schema.csproj.CoreCompileInputs.cache
+C:\Users\N.artyushkin\source\repos\ScheduleExcel\PenzGTUSchedule-schema\obj\Debug\PenzGTUSchedule-schema.dll
+C:\Users\N.artyushkin\source\repos\ScheduleExcel\PenzGTUSchedule-schema\obj\Debug\PenzGTUSchedule-schema.pdb
+C:\Users\N.artyushkin\source\repos\ScheduleExcel\PenzGTUSchedule-schema\obj\Debug\PenzGTUSchedule-schema.csprojResolveAssemblyReference.cache

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleExcel", "ScheduleExcel\ScheduleExcel.csproj", "{0D5BE653-0AAF-4C22-AFF0-FC149B00D429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SheduleExcelTest", "SheduleExcelTest\SheduleExcelTest.csproj", "{F546AAC3-C9F4-4054-9620-3ADAF7E01F46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PenzGTUSchedule-schema", "PenzGTUSchedule-schema\PenzGTUSchedule-schema.csproj", "{E33B856A-93A9-493A-BB4B-5E8CE2509453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D5BE653-0AAF-4C22-AFF0-FC149B00D429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D5BE653-0AAF-4C22-AFF0-FC149B00D429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D5BE653-0AAF-4C22-AFF0-FC149B00D429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D5BE653-0AAF-4C22-AFF0-FC149B00D429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F546AAC3-C9F4-4054-9620-3ADAF7E01F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F546AAC3-C9F4-4054-9620-3ADAF7E01F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F546AAC3-C9F4-4054-9620-3ADAF7E01F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F546AAC3-C9F4-4054-9620-3ADAF7E01F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E33B856A-93A9-493A-BB4B-5E8CE2509453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33B856A-93A9-493A-BB4B-5E8CE2509453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33B856A-93A9-493A-BB4B-5E8CE2509453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33B856A-93A9-493A-BB4B-5E8CE2509453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00FB14B4-1168-47BB-B550-5CF2FF807F70}
+	EndGlobalSection
+EndGlobal
